@@ -4,7 +4,8 @@ html {
   font-family: Karma, serif;
 }
 
-*, *::before,
+*,
+*::before,
 *::after {
   box-sizing: inherit;
 }
